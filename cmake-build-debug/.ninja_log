@@ -1,0 +1,10 @@
+# ninja log v5
+7	2634	7249071984785551	CMakeFiles/Board_Games.dir/src/GameManager.cpp.obj	f92dd34e1908574f
+13	3334	7249071992066099	CMakeFiles/Board_Games.dir/src/Player.cpp.obj	644c5a233954b3b2
+1	3875	7249071997609994	CMakeFiles/Board_Games.dir/src/ConnectFour_Board.cpp.obj	a24f5465ec1d90d6
+2637	4583	7249072004562567	CMakeFiles/Board_Games.dir/src/Pyramid_X_O_Board.cpp.obj	7b9d0ce99188f00d
+3335	5022	7249072009033283	CMakeFiles/Board_Games.dir/src/X_O_Board.cpp.obj	835696a190cda133
+3876	5435	7249072013131317	CMakeFiles/Board_Games.dir/src/RandomPlayer.cpp.obj	c3f5fd2056d4e3b
+4583	5628	7249072014469065	CMakeFiles/Board_Games.dir/src/X_O_App.cpp.obj	59e9ded2fdc27184
+5022	6115	7249072020088341	CMakeFiles/Board_Games.dir/src/X_O_fivegrid_Board.cpp.obj	ab60e898079337ea
+6116	6340	7249072022270354	Board_Games.exe	71890417846b54df
